@@ -1,0 +1,330 @@
+@media only screen and (max-width: 1089px) {
+    .main-heading h1 {
+        font-size: 5.5rem;
+    }
+    .active-li {
+        transform: scale(1.225)
+    }
+    .active-li:hover {
+        transform: scale(1.225) translateY(15.5%); 
+    }
+    .nav-li {
+        font-size: 22px;
+    }
+    .prices-item {
+        transform: scale(0.95);
+    }
+    .popup-desc {
+        font-size: 1.075rem;
+    }
+    .seznam-button-container .seznam-heading {
+        font-size: 1.25rem;
+    }
+    .form {
+        min-width: 85% !important;
+        max-width: 85% !important;
+    }
+}  
+@media only screen and (max-width: 989px) {
+    .form {
+        min-width: 90% !important;
+        max-width: 90% !important;
+    }
+}
+@media only screen and (max-width: 889px) {
+    .form {
+        min-width: 95% !important;
+        max-width: 95% !important;
+    }
+    .form-group {
+        transform: scale(0.95)
+    }
+    .form-group:last-child {
+        margin-top: -3%;
+    }
+}
+@media only screen and (max-width: 789px) {
+    .main-heading h1 {
+        font-size: 5rem;
+    }
+    .active-li {
+        transform: scale(1.2)
+    }
+    .active-li:hover {
+        transform: scale(1.2) translateY(13.5%); 
+    }
+    .nav-li {
+        font-size: 21px;
+    }
+    .description p {
+        font-size: 1.175rem;
+        margin-top: 4%;
+    }
+    .about-ul {
+        font-size: 1.175rem;
+    }
+
+    .bigger {
+        font-size: 1.275rem !important;
+    }
+    h2 {
+        font-size: 1.75rem;
+        margin-top: 5%;
+    }
+    .main-heading {
+        margin-top: 3.5%;
+    }
+    .popup-content {
+        height: 90% !important;
+    }
+    .prices-item {
+        margin-bottom: 3%;
+    }
+    .commissions {
+        color: var(--c-lightBlue) !important;
+        font-size: 1.75rem !important;
+    }
+    .popup-offer{
+        width: 90% !important;
+    }
+    .popup-desc {
+        font-size: 1.05rem;
+        margin: 4% auto 2% auto;
+    }
+    .work-row-child {
+        transform: scale(0.95);
+        margin: 1.5% !important;
+    }
+    .description-special-p {
+        margin-top: 6% !important;
+    }
+    .seznam-button-container .seznam-heading {
+        font-size: 1rem;
+    }
+    .active-seznam {
+        font-size: 15px;
+    }
+    .form {
+        min-width: 100% !important;
+        max-width: 100% !important;
+    }
+    .form-group {
+        transform: scale(0.9);
+        margin: 1.5% auto;
+    }
+    .form-group:last-child {
+        margin-top: -5%;
+    }
+}
+@media only screen and (max-width: 689px) {
+    .main-heading h1 {
+        font-size: 4.5rem;
+    }
+    .active-li {
+        transform: scale(1.15);
+    }
+    .active-li:hover {
+        transform: scale(1.15) translateY(11.5%); 
+    }
+    .nav-li {
+        font-size: 19px;
+    }
+    .description {
+        margin-bottom: 7.5% !important;
+    }
+    .description p {
+        font-size: 1.15rem;
+        margin-top: 5%;
+    }
+    .about-ul {
+        font-size: 1.15rem;
+    }
+    .bigger {
+        font-size: 1.25rem !important;
+    }
+    nav ul li:hover span {
+        border-bottom: 0.125em solid var(--c-lightBlue);
+    }
+    h2 {
+        font-size: 1.85rem;
+        margin-top: 6%;
+    }
+    .main-heading {
+        margin-top: 4.5%;
+    }
+    .popup-content {
+        width: 90% !important;
+    }
+    .close-popup {
+        right: 18px;
+        top: 18px;
+        transform: scale(0.95);
+    }
+    .close-popup:hover,
+    .close-popup:active {
+        font-size: 2.35rem;
+    }
+    .prices-item {
+        transform: scale(0.95)
+    }
+    .commissions {
+        color: var(--c-lightBlue) !important;
+        font-size: 1.5rem !important;
+    }
+    .p-col div {
+        flex-direction: column !important;
+    }
+    .popup-desc {
+        font-size: 1rem;
+        margin: 5% auto 2% auto;
+        max-width: 92.5%;
+    }
+    .work-row-child {
+        transform: scale(0.9);
+        margin: 1% !important;
+    }
+    .socials {
+        transform: scale(0.9);
+    }
+    .description-special-p {
+        margin-top: 8% !important;
+    }
+    .active-seznam {
+        font-size: 14px;
+    }
+    .form-group {
+        transform: scale(0.85);
+        margin: -2% auto;
+    }
+    
+}
+@media only screen and (max-width: 589px) {
+    .main-heading h1 {
+        font-size: 4rem;
+    }
+    .active-li {
+        transform: scale(1.125)
+    }
+    .active-li:hover {
+        transform: scale(1.125) translateY(11.5%); 
+    }
+    .nav-li {
+        font-size: 18px;
+    }
+    .description p {
+        font-size: 1.1rem;
+    }
+    .description p:first-child {
+        margin-top: 12.5%;
+    }
+    .about-ul {
+        font-size: 1.1rem;
+    }
+    .bigger {
+        font-size: 1.175rem !important;
+    }
+    h2 {
+        font-size: 1.65rem;
+        margin-top: 7%;
+    }
+    .main-heading {
+        margin-top: 5.5%;
+    }
+    .close-popup {
+        right: 16px;
+        top: 16px;
+        transform: scale(0.9);
+    }
+    .close-popup:hover,
+    .close-popup:active {
+        font-size: 2.2rem;
+    }
+    .popup-content h2 {
+        margin-right: 20% !important;
+    }
+    .prices-item {
+        transform: scale(0.9)
+    }
+    .commissions {
+        color: var(--c-lightBlue) !important;
+        font-size: 1.35rem !important;
+    }
+    .popup-desc {
+        font-size: 0.9rem;
+    }
+    .socials {
+        transform: scale(0.85);
+    }
+    .description-special-p {
+        margin-top: 10% !important;
+    }
+    .active-seznam {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 489px) {
+    .main-heading h1 {
+        font-size: 3.5rem;
+    }
+    .active-li {
+        transform: scale(1.125)
+    }
+    .nav-li {
+        font-size: 17px;
+    }
+    .description p {
+        font-size: 1.05rem;
+    }
+    .about-ul {
+        font-size: 1.05rem;
+    }
+    h2 {
+        font-size: 1.45rem;
+        margin-top: 8%;
+    }
+    .main-heading {
+        margin-top: 6.5%;
+    }
+    .prices-item:first-child {
+        margin-top: 5.5%;
+    }
+    .prices-row {
+        max-width: 100%;
+    }
+    .prices-item {
+        transform: scale(0.85)
+    }
+    .socials {
+        transform: scale(0.8);
+    }
+}
+@media only screen and (max-width: 389px) {
+    .main-heading h1 {
+        font-size: 3rem;
+    }
+    .active-li {
+        transform: scale(1.1175)
+    }
+    .active-li:hover {
+        transform: scale(1.1175) translateY(11.5%); 
+    }
+    .nav-li {
+        font-size: 16px;
+    }
+    .description p {
+        font-size: 1rem;
+    }
+    .main-heading {
+        margin-top: 7.5%;
+    }
+}
+@media only screen and (max-width: 359px) {
+    .main-heading h1 {
+        font-size: 2.75rem;
+    }
+}
+@media only screen and (max-width: 289px) {
+    .main-heading h1 {
+        font-size: 2.25rem;
+    }
+}
