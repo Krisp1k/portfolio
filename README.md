@@ -1,4 +1,3 @@
-# portfolio
-This is still a WIP!! <br>
+# link
 
 http://krisp1k.4fan.cz/
